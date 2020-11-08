@@ -9,26 +9,24 @@
     <h1>Travel reservation form</h1>
     <h2>* denotes mandatory</h2>
     <br>
-    <form action="/index_html" method="get">
-        Full name*:
-        <br>
-        <input type="text" name="name">
-        <br> Email address*:
-        <br>
-        <input type="email" name="email address">
-        <br>
+    <form action="/index_html" method="post">
+        <label>Full name*:</label><br>
+        <input type="text" name="fullname" value="FirstName LastName"><br>
+        <label>Email address*:</label><br>
+        <input type="email" name="email address" value="email address"><br>
         <label Select for="tour">Select Tour Package*:</label>
         <br>
-        <select id="tour" name="tour">
-    <option value="Goa">Goa</option>
-    </select>
+        <select id="tour " name="tour ">
+        <option value="Goa ">Goa</option>
+        <option value="anywhere">Anywhere</option>
+        </select>
         <br> Arrival date*:
         <br>
-        <input type="m/d/y" name="date">
+        <input type="m/d/y " name="date ">
         <br> What would you like avail?*
-        <br> Boarding <input type="checkbox"><br> Fooding <input type="checkbox"><br> Sight seeing <input type="checkbox"><br> Discount Coupon code:
+        <br> Boarding <input type="checkbox "><br> Fooding <input type="checkbox "><br> Sight seeing <input type="checkbox "><br> Discount Coupon code:
         <br>
-        <input type="text" name="coupon">
+        <input type="text " name="coupon ">
         <br> Terms and conditions*<br>
         <input type="radio"> I agree
         <input type="radio"> I disagree
@@ -37,6 +35,6 @@
 
     </form>
     <br>
-    <a href="/">Home</a>
+    <a href="index.html">Home</a>
     <br>
 </body>

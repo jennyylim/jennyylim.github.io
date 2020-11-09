@@ -1,9 +1,3 @@
-h2 {
-    font-family: 'Sacramento', cursive;
-    font-size: xxx-large;
-    color: teal;
-}
-
 body {
     background-color: rgb(226, 255, 255);
     text-align: center;
@@ -13,7 +7,14 @@ body {
     color: darkslategray;
 }
 
-img {
+h2 {
+    font-family: 'Sacramento', cursive;
+    font-size: xxx-large;
+    color: teal;
+}
+
+image {
+    display: block;
     margin-left: auto;
     margin-right: auto;
 }

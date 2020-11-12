@@ -28,3 +28,37 @@ table {
     margin-left: auto;
     margin-right: auto;
 }
+
+.flex-container {
+    background-color: grey;
+    width: 500px;
+    height: 500px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: auto;
+    border: black;
+}
+
+.flex-container>div {
+    background-color: #f1f1f1;
+    width: auto;
+    margin: auto;
+    padding: 10px;
+}
+
+div.fixed {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+    border: 3px solid darkgrey;
+    font-family: 'Abril Fatface', cursive;
+    text-align: center;
+    color: teal;
+}
+
+
+/* test media queries */

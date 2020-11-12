@@ -14,38 +14,6 @@
     <title>Jenny's Profile</title>
     <!-- import the webpage's stylesheet -->
     <link rel="stylesheet" href="stylesheet.css">
-    <style>
-    body {
-            text-align: center;
-        }
-        
-        .flex-container {
-            background-color: grey;
-            width: 500px;
-            height: 500px;
-            text-align: center;
-            align-items: center;
-            display: flex;
-            flex-flow: row wrap;
-            justify-content: space-around;
-            margin: auto;
-            border: black;
-        }
-        
-        .flex-container>div {
-            background-color: #f1f1f1;
-            width: auto;
-            margin: auto;
-            padding: 10px;
-        }
-        /* .flex-container>div {
-            background-color: #f1f1f1;
-            width: 400px;
-            margin: 400px;
-            padding: 10px;
-            font-size: 20px; */
-    }
-    </style>
     <br>
 
     <!-- import the webpage's javascript file -->
@@ -56,34 +24,37 @@
 <body>
     <header>
         <!-- Fixed navbar -->
-        <div class="navbar">
-            <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-                <a class="navbar-brand" href="#">Welcome!</a>
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon7"></span>
+        <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+            <a class="navbar-brand" href="#">Welcome!</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
     </button>
 
-                <div class="collapse navbar-collapse" id="navbarCollapse">
-                    <ul class="navbar-nav mr-auto">
-                        <li class="nav-item active">
-                            <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="portfolio.html">Portfolio</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="say_hi.html">Say Hi!</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="blog.html">Blog</a>
-                        </li>
-                    </ul>
-                    <form class="form-inline mt-2 mt-md-0">
-                        <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
-                        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-                    </form>
-                </div>
-            </nav>
+            <div class="collapse navbar-collapse" id="navbarCollapse">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="portfolio.html">Portfolio</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="say_hi.html">Say Hi!</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="blog.html">Blog</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="flexbox.html">Flexbox</a>
+                    </li>
+                </ul>
+                <form class="form-inline mt-2 mt-md-0">
+                    <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
+                    <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+                </form>
+            </div>
+        </nav>
+        <br><br><br><br>
         </div>
     </header>
     <br>
@@ -92,37 +63,21 @@
     <div class="container">
         <img width="370" height="300" src="https://media1.tenor.com/images/7d4454a56a468e9c82525753a1151a7f/tenor.gif?itemid=8157787" alt="Panda roll">
     </div><br>
-    <div class="h1">
-        <h1 class="animate__animated animate__bounce">Hello! I'm Jenny</h1>
-    </div>
+    <!-- <div class="h1"> -->
+    <h1 class="animate__animated animate__bounce">Hello! I'm Jenny</h1>
     <div class="p">
         <p>
             I am an <em>aspiring</em> software developer and part time <strong>panda</strong>!
         </p>
-        <!-- <p> <a href="mailto:jen.miller1904@gmail.com">Contact me</a> <strong>|</strong> <a href="portfolio.html ">My portfolio</a>
-            <strong>|</strong><a href="travel_form.html">Travel form</a>
-        </p> -->
-        <div class="flex-container">
-            <div>
-                <img src="https://icon-library.com/images/panda-icon/panda-icon-17.jpg">
-            </div>
-            <div>
-                <img src="https://icon-library.com/images/panda-icon/panda-icon-17.jpg">
-            </div>
-            <div>
-                <img src="https://icon-library.com/images/panda-icon/panda-icon-17.jpg">
-            </div>
-            <div>
-                <img src="https://icon-library.com/images/panda-icon/panda-icon-17.jpg">
-            </div>
-            <div>
-                <img src="https://icon-library.com/images/panda-icon/panda-icon-17.jpg">
-            </div>
-            <div>
-                <img src="https://icon-library.com/images/panda-icon/panda-icon-17.jpg">
-            </div>
-        </div>
-        <!-- <table>
+        <p> <a href="mailto:jen.miller1904@gmail.com">Contact me</a> <strong>|</strong> <a href="portfolio.html ">My portfolio</a>
+            <strong>| </strong><a href="travel_form.html">Travel form</a>
+            <strong> | </strong><a href="say_hi.html">Say Hi!</a>
+            <strong> | </strong><a href="blog.html">Blog</a>
+            <strong> | </strong><a href="flexbox.html">Flexbox Exercise</a>
+
+        </p>
+
+        <table>
             <tr>
                 <th>Month</th>
                 <th>Year</th>
@@ -131,7 +86,7 @@
                 <td>November</td>
                 <td>2020</td>
             </tr>
-        </table> -->
+        </table>
     </div>
     <!-- include the Glitch button to show what the webpage is about and
           to make it easier for folks to view source and remix -->

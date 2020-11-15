@@ -1,0 +1,83 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+#nav-bar {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: rgb(0, 0, 0);
+    margin: 10px;
+    padding: 20px;
+    justify-content: left;
+    align-content: left;
+}
+
+#nav-bar li {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+    display: inline;
+    padding: 30px;
+    margin: auto;
+    width: 10px;
+    color: rgb(216, 216, 216);
+    justify-content: left;
+}
+
+
+/* input {
+    align-items: right;
+} */
+
+#nav-bar li:hover {
+    background-color: rgb(44, 44, 44);
+    padding: auto;
+}
+
+h1 {
+    font-family: simplifica;
+    font-weight: 700;
+    font-size: 80px;
+    text-align: center;
+}
+
+.content {
+    flex-direction: row;
+    float: left;
+    margin-left: 50px;
+}
+
+.content img {
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 460px;
+    height: 320px;
+    margin: 50px;
+}
+
+h2 {
+    flex: 20%;
+    font-family: simplifica;
+    font-size: 60px;
+}
+
+h3 {
+    flex: 50%;
+    font-family: simplifica;
+    font-size: 60px;
+    color: red;
+}
+
+.content section {
+    padding: 0 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.buttons>button {
+    background-color: black;
+    color: white;
+    font-size: 15px;
+}

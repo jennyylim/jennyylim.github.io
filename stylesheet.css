@@ -1,5 +1,6 @@
 body {
     background-color: rgb(226, 255, 255);
+    text-align: center;
 }
 
 h1 {
@@ -60,5 +61,6 @@ div.fixed {
     color: teal;
 }
 
-
-/* test media queries */
+.game>button {
+    background-color: black;
+}

@@ -4,7 +4,7 @@
 }
 
 #game {
-    width: 400px;
+    width: 800px;
     height: 500px;
     border: 1px solid black;
     margin: auto;
@@ -16,13 +16,13 @@
     height: 500px;
     background-color: black;
     position: relative;
-    left: 400px;
+    left: 800px;
     animation: block 2s infinite linear;
 }
 
 @keyframes block {
     0% {
-        left: 400px
+        left: 800px
     }
     100% {
         left: -50px
@@ -34,9 +34,10 @@
     height: 150px;
     background-color: white;
     position: relative;
-    left: 400px;
+    left: 800px;
     top: -500px;
     animation: block 2s infinite linear;
+    -webkit-animation: block 2s infinite linear;
 }
 
 #character {

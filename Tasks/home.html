@@ -23,6 +23,7 @@
             background-repeat: no-repeat;
             background-size: cover;
             height: 500px;
+            margin: 0;
         }
         
         a.p-2 {
@@ -32,49 +33,39 @@
         
         h1 {
             font-family: 'Prata', serif;
-            font-weight: 700;
+            font-weight: 500;
             text-align: center;
             color: rgb(36, 36, 44);
         }
         
-        div.col-8 {
-            width: 80%;
-            margin: auto;
-        }
-        
-        .carousel-inner>.item>img,
-        .carousel-inner>.item>a>img {
-            width: 100%;
-            margin: auto;
-        }
-        
-        .h2 h3 {
+        .cover-heading {
             font-family: 'Prata', serif;
-            font-weight: 600;
+            font-size: 80px;
+            font-weight: 500;
             text-align: center;
-            color: white;
+            color: rgb(36, 36, 44);
+            margin-top: 100px;
+            opacity: 1;
+            transition: .5s ease;
+            backface-visibility: hidden;
+            -webkit-backface-visibility: hidden;
         }
         
-        form {
-            align-items: center;
+        .cover-heading:hover {
+            opacity: 0.3;
         }
         
-        input[type="email"] {
-            margin-left: 25%;
-            margin-right: 25%;
-            width: 50%;
+        .cover {
+            padding: 0 1.5rem;
         }
         
-        input[type="password"] {
-            margin-left: 25%;
-            margin-right: 25%;
-            width: 50%;
-        }
-        
-        .btn {
-            margin-left: 25%;
-            margin-right: 25%;
-            width: 150px;
+        p {
+            font-family: 'Quicksand', sans-serif;
+            font-size: larger;
+            font-weight: 700;
+            text-align: center;
+            color: rgb(22, 22, 22);
+            background-color: rgb(255, 255, 255, 0.40);
         }
         
         span.text-muted {
@@ -87,43 +78,34 @@
 </head>
 
 <body>
-
     <div class="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 mb-3 border-white shadow-sm sticky-top">
         <h1 class="my-0 mr-md-auto font-weight-normal">
             <Minimalist class="fas fa-expand fa-sm"> Minimalist</h1>
         </i>
         <nav class="my-2 my-md-0 mr-md-3">
-            <a class="p-2 text-light" href="../home/home.html">Home</a>
-            <a class="p-2 text-light" href="../aboutus/aboutus.html">About</a>
-            <a class="p-2 text-light" href="../contactus/contactus.html">Contact Us</a>
+            <a class="p-2 text-light" href="home.html">Home</a>
+            <a class="p-2 text-light" href="aboutus.html">About</a>
+            <a class="p-2 text-light" href="contactus.html">Contact Us</a>
         </nav>
         <a class="p-2 text-light" href="signIn.html"><button type="button" class="btn btn-light">Sign up / Log in</button></a>
     </div>
-    </div>
-    <div class="container">
-        <div class="signin">
-            <div class="text-center">
-                <form class="form-signin">
-                    <i class="fas fa-expand fa-5x"></i>
-                    <h2 class="h3 mb-3 font-weight-normal">Please sign in</h2>
-                    <label for="inputEmail" class="sr-only">Email address</label>
-                    <input type="email" id="inputEmail" class="form-control" placeholder="Email address" required="" autofocus="">
-                    <label for="inputPassword" class="sr-only">Password</label>
-                    <input type="password" id="inputPassword" class="form-control" placeholder="Password" required="">
-                    <div class="checkbox mb-3">
-                        <label>
-          <input type="checkbox" value="remember-me"> Remember me
-        </label>
-                    </div>
-                    <button class="btn btn-lg btn-light btn-block" type="submit">Sign in</button>
-                    <p class="mt-5 mb-3 text-muted">© 2017-2020</p>
-                </form>
-            </div>
-        </div>
 
+    <div class="container">
+        <main role="main" class="inner cover">
+            <h1 class="cover-heading">Minimalist</h1>
+            <hr>
+            <br>
+            <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sit amet luctus risus, et dictum odio. Praesent faucibus nisl vitae interdum ultrices. Ut sollicitudin erat sed lectus tempus, non gravida est tristique. Proin et neque ut lacus
+                tincidunt vestibulum sed nec sem. Aenean leo lectus, porttitor vitae hendrerit a, ullamcorper nec lorem.</p>
+            <p class="lead">Phasellus eget erat ac lectus sollicitudin sagittis. Vivamus faucibus purus eget est euismod tincidunt. Suspendisse augue dui, tempor ac nisi et, porttitor malesuada libero. Mauris bibendum euismod lacus at facilisis. In vel tellus quis lectus
+                elementum placerat. Donec vel ex ultricies, convallis velit at, porttitor justo.</p>
+        </main>
+
+    </div>
 
 
 </body>
+<hr>
 <footer class="footer mt-auto py-3 ">
     <div class="container ">
         <a href="https://www.instagram.com/"><i class="fab fa-instagram fa-3x" style="color:white"></i></a>

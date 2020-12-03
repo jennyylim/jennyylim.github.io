@@ -13,9 +13,10 @@
 }
 
 #block {
-    width: 50px;
+    width: 55px;
     height: 500px;
-    background-color: rgb(28, 208, 0);
+    /* background-color: rgb(28, 208, 0); */
+    background: url("pillar.jfif");
     position: relative;
     left: 800px;
     animation: block 2s infinite linear;
@@ -32,7 +33,7 @@
 }
 
 #hole {
-    width: 50px;
+    width: 40px;
     height: 150px;
     background-color: white;
     position: relative;

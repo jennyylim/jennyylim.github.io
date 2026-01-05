@@ -1,9 +1,9 @@
 # 👩‍💻 Jenny Lim  
 **Aspiring Cloud Security Support / DevOps Engineer**
 
-📍 Singapore
-🔗 **GitHub:** https://github.com/jennyylim  
-🔗 **LinkedIn:** *[Jenny Anastasia Lim](https://www.linkedin.com/in/jenny-anastasia-lim/)*  
+📍 Singapore 
+🔗 **GitHub:** [github.com/jennyylim](https://github.com/jennyylim)  
+🔗 **LinkedIn:** [Jenny Anastasia Lim](https://www.linkedin.com/in/jenny-anastasia-lim/)  
 📧 **Email:** *jenny.analim@gmail.com*  
 
 ---
@@ -18,10 +18,9 @@ I enjoy troubleshooting, documenting processes clearly, and improving workflows.
 
 ## 🌐 Digital Presence
 
-- **GitHub:** https://github.com/jennyylim  
-  *(projects, labs, practice)*  
-- **LinkedIn:** *[Jenny Anastasia Lim](https://www.linkedin.com/in/jenny-anastasia-lim/)*   
-- **Portfolio:** *https://github.com/jennyylim*  
+- **GitHub:** [github.com/jennyylim](https://github.com/jennyylim)    
+- **LinkedIn:** [Jenny Anastasia Lim](https://www.linkedin.com/in/jenny-anastasia-lim/)   
+- **Portfolio:** [github.com/jennyylim](https://github.com/jennyylim)    
 
 ---
 

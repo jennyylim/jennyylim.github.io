@@ -59,17 +59,10 @@ I enjoy troubleshooting, documenting processes clearly, and improving workflows.
 
 *(Beginner projects are totally acceptable — focus on learning and process.)*
 
-### 1) RAIN System (Group Project) — Asset / Request Management *(In Progress)*
+### RAIN System (Group Project) — Asset / Request Management *(In Progress)*
 
 - **What it is:** A simple system concept for managing IT assets and requests  
 - **What I’m practicing:** requirements gathering, documentation, risk thinking, basic architecture planning  
-- **Links:** *(add repo link when ready)*  
-
-### 2) Linux & Git Practice Notes
-
-- **What it is:** Study notes and command practice while learning Linux and Git  
-- **What I’m practicing:** consistency, troubleshooting steps, clear documentation  
-- **Links:** *(add repo link if you have one)*  
 
 ---
 

@@ -11,7 +11,6 @@
 ## 👋 About Me
 
 I’m an adaptable professional transitioning into **Cloud Support & DevOps**. I’m currently building hands-on skills through the **Generation Cloud Support & DevOps programme**, learning Linux, networking basics, cloud fundamentals, and scripting.
-
 I enjoy troubleshooting, documenting processes clearly, and improving workflows. I’m looking for opportunities where I can support systems, learn fast, and grow into a Cloud/DevOps role.
 
 ---
@@ -56,8 +55,6 @@ I enjoy troubleshooting, documenting processes clearly, and improving workflows.
 ---
 
 ## 📌 Projects
-
-*(Beginner projects are totally acceptable — focus on learning and process.)*
 
 ### RAIN System (Group Project) — Asset / Request Management *(In Progress)*
 

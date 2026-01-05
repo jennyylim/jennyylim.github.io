@@ -3,7 +3,7 @@
 
 📍 Singapore
 🔗 **GitHub:** https://github.com/jennyylim  
-🔗 **LinkedIn:** *https://www.linkedin.com/in/jenny-anastasia-lim/*  
+🔗 **LinkedIn:** *[Jenny Anastasia Lim](https://www.linkedin.com/in/jenny-anastasia-lim/)*  
 📧 **Email:** *jenny.analim@gmail.com*  
 
 ---
@@ -20,7 +20,7 @@ I enjoy troubleshooting, documenting processes clearly, and improving workflows.
 
 - **GitHub:** https://github.com/jennyylim  
   *(projects, labs, practice)*  
-- **LinkedIn:** *https://www.linkedin.com/in/jenny-anastasia-lim/*  
+- **LinkedIn:** *[Jenny Anastasia Lim](https://www.linkedin.com/in/jenny-anastasia-lim/)*   
 - **Portfolio:** *https://github.com/jennyylim*  
 
 ---

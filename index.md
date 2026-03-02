@@ -75,7 +75,7 @@ I aim to build systems that are:
 
 
 
-## 📂 Selected Work
+## 📂 Captone Project
 
 ### RAIN System (Group Project) — Asset / Request Management
 
@@ -86,7 +86,9 @@ Focus areas:
 - Requirements analysis  
 - Basic architecture planning  
 - Risk and operational thinking  
-- Clear documentation practices  
+- Clear documentation practices
+
+![RAIN Login Page](pics/RAIN-login.png)
 
 
 

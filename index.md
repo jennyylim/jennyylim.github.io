@@ -1,85 +1,108 @@
 # 👩‍💻 Jenny Lim  
-**Aspiring Cloud Security Support / DevOps Engineer**
+**Cloud Support & DevOps (Entry-Level) | Reliability & Automation Focus**
 
-📍 Singapore <br>
-🔗 **GitHub:** [github.com/jennyylim](https://github.com/jennyylim)  
-🔗 **LinkedIn:** [Jenny Anastasia Lim](https://www.linkedin.com/in/jenny-anastasia-lim/)  
-📧 **Email:** *jenny.analim@gmail.com*  
+📍 Singapore  
+🔗 **GitHub:** https://github.com/jennyylim  
+🔗 **LinkedIn:** https://www.linkedin.com/in/jenny-anastasia-lim/  
+📧 **Email:** jenny.analim@gmail.com  
 
----
 
-## 👋 About Me
 
-I’m an adaptable professional transitioning into **Cloud Support & DevOps**. I’m currently building hands-on skills through the **Generation Cloud Support & DevOps programme**, learning Linux, networking basics, cloud fundamentals, and scripting.
-I enjoy troubleshooting, documenting processes clearly, and improving workflows. I’m looking for opportunities where I can support systems, learn fast, and grow into a Cloud/DevOps role.
+## 👋 Profile
 
----
+Entry-level Cloud & DevOps trainee building strong foundations in **Linux systems, networking, cloud fundamentals, and automation concepts** through the Generation Cloud Support & DevOps Programme.
 
-## 🌐 Digital Presence
+I am particularly interested in:
 
-- **GitHub:** [github.com/jennyylim](https://github.com/jennyylim)    
-- **LinkedIn:** [Jenny Anastasia Lim](https://www.linkedin.com/in/jenny-anastasia-lim/)   
-- **Portfolio:** [github.com/jennyylim](https://github.com/jennyylim)    
+- Structured troubleshooting  
+- High availability and system reliability  
+- CI/CD workflows and automation  
+- Clear documentation and operational readiness  
 
----
+I approach systems with a focus on **root cause analysis, reproducibility, and continuous improvement.**
 
-## 💼 Experience
+
+
+## ☁️ Core Competencies
+
+### Cloud & Infrastructure Foundations
+- Compute, storage, and networking fundamentals  
+- High availability and scalability concepts  
+- Basic IAM and least-privilege awareness  
+- Monitoring and logging fundamentals  
+
+### DevOps Fundamentals
+- CI/CD concepts and deployment workflow  
+- Git version control and branching basics  
+- Automation mindset to reduce manual errors  
+- Introduction to containerization concepts  
+
+### Systems & Support
+- Linux navigation, permissions, and service awareness  
+- Log-based troubleshooting approach  
+- DNS, ports, and IP fundamentals  
+- Structured incident triage thinking  
+
+
+
+## 🧠 My Approach to Cloud & Operations
+
+When diagnosing issues, I focus on:
+
+1. Identifying scope and impact  
+2. Checking logs and system resources  
+3. Isolating the affected layer (network, service, or application)  
+4. Applying fixes with validation  
+5. Documenting findings to prevent recurrence  
+
+I aim to build systems that are:
+
+- Reliable  
+- Observable  
+- Maintainable  
+- Well-documented  
+
+
+## 🎓 Training
 
 ### Generation Singapore — Cloud Support & DevOps Programme (SCTP)  
 **Trainee | 2025–Present**
 
-- Practicing Linux commands, troubleshooting, and scripting basics  
-- Learning cloud concepts, networking fundamentals, and DevOps workflows  
-- Building small projects and documenting my learning journey  
+- Practicing Linux system commands and troubleshooting  
+- Learning networking and cloud infrastructure fundamentals  
+- Applying DevOps concepts such as version control and CI/CD  
+- Participating in group-based system design and documentation exercises  
 
----
 
-## 🧰 Skills
 
-### Technical Skills (in progress)
+## 📂 Selected Work
 
-- **Linux:** navigation, permissions, basic troubleshooting  
-- **Git/GitHub:** commits, branches, pull requests  
-- **Cloud Fundamentals:** core services, compute/storage/network basics  
-- **Networking Basics:** IP, DNS, ports, troubleshooting concepts  
-- **Scripting:** beginner Python / shell basics  
-- **Docker (beginner):** images vs containers, basic commands  
+### RAIN System (Group Project) — Asset / Request Management
 
-### Transferable Skills
+Conceptual IT asset and request management system.
 
-- Documentation & clear communication  
-- Problem-solving and troubleshooting mindset  
-- Team collaboration (group projects)  
-- Organization and time management  
+Focus areas:
 
----
+- Requirements analysis  
+- Basic architecture planning  
+- Risk and operational thinking  
+- Clear documentation practices  
 
-## 📌 Projects
 
-### RAIN System (Group Project) — Asset / Request Management *(In Progress)*
 
-- **What it is:** A simple system concept for managing IT assets and requests  
-- **What I’m practicing:** requirements gathering, documentation, risk thinking, basic architecture planning  
+## 🎯 Goals
 
----
+I am working toward strengthening my cloud foundation and professional credentials:
 
-## 📝 Project Pages (IN PROGRESS) 
+- **Microsoft Azure Fundamentals (AZ-900)**  
+- **Strengthen Linux & Log-Based Troubleshooting**  
+- **Build an End-to-End CI/CD Workflow**  
 
-**Project Name**
 
-- **Problem:**  
-- **What I built:**  
-- **Tools used:**  
-- **What I learned:**  
-- **Next steps:**  
-- **Link:**  
 
----
+## 🚀 Currently Developing
 
-## ✅ What I’m Learning Now
-
-- Building confidence in Linux and troubleshooting  
-- Writing clearer documentation and runbooks  
-- Practicing cloud fundamentals and DevOps workflows  
-- Turning labs into small portfolio projects  
-
+- Strengthening Linux troubleshooting confidence  
+- Practicing structured incident documentation  
+- Turning cloud labs into focused portfolio demonstrations  
+- Expanding understanding of CI/CD and automation workflows  
